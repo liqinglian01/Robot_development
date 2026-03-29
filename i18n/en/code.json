@@ -1,0 +1,14 @@
+{
+  "theme.docs.versions.current": {
+    "message": "V1.2.0",
+    "description": "The label for the current version"
+  },
+  "theme.docs.versions.latestVersionLabel": {
+    "message": "V1.2.0",
+    "description": "The label for the latest version"
+  },
+  "theme.docs.versions.unmaintainedVersionCombinedLabel": {
+    "message": "This is documentation for {siteTitle} {versionLabel}. For the latest documentation, see {latestVersionLink} ({latestVersionLabel}).",
+    "description": "Combined unmaintained version banner (single sentence)"
+  }
+}
